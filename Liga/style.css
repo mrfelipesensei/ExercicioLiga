@@ -1,0 +1,32 @@
+#titulo{
+    font-family: Impact;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 70px;
+    color: gold;
+}
+
+.parag{
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    font-size: 30px;
+    color: gold;
+}
+
+.subt{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 50px;
+    text-align: center;
+    color: gold;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
+body{
+    background-color: black;
+}
