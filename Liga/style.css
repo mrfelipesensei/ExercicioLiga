@@ -30,3 +30,9 @@
 body{
     background-color: black;
 }
+
+#rodape{
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    color: lightyellow;
+}
